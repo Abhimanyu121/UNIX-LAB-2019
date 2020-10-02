@@ -1,4 +1,4 @@
-str1="hey You!"
+str1="Hey You!"
 str2="wHATS UP?"
 str3=""
 
