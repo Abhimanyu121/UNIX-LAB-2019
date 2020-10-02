@@ -1,4 +1,4 @@
-echo "Enter a name:\c"
+echo "Enter a Name:\c"
 read fname
 if [ -f $fname ]
 then 
